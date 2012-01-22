@@ -1,0 +1,25 @@
+.largecenter {
+	text-align: center;
+	font-size: 250%;
+}
+.title {
+	page-break-before:always;
+	font-size: 200%;
+	height: 60px;
+	text-align: center;
+}
+.break {
+	text-align: center;
+}
+.subtitle {
+	height: 40px;
+	text-align: center;
+}
+
+div.intro,
+div.meta {
+	page-break-after:always;
+}
+div.TOC {
+	font-size: 150%;
+}
