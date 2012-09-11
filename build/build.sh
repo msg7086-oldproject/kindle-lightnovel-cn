@@ -15,7 +15,7 @@ do
 		if [[ $htmtime -gt $prctime || $jpgtime -gt $prctime ]]
 		then
 			pushd ${fn%/*}
-			../kindlegen -c1 -o "$dfn.prc" "$dfn.htm"
+			../kindlegen -c1 -o "$dfn.prc" "$dfn.htm" | tee "../build/$dfn.log"
 			mv "$dfn.prc" "../build/$dfn.prc"
 			popd
 		fi
