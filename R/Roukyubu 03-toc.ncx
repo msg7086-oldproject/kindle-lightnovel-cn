@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>萝球社！03</text></docTitle>
+<docAuthor><text>苍山サグ|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Roukyubu 03-toc.htm" />
+    <navPoint class="chapter" id="prologue" playOrder="2">
+      <navLabel>
+        <text>序章</text>
+      </navLabel>
+      <content src="Roukyubu 03.htm#prologue" />
+    </navPoint>    <navPoint class="chapter" id="chap1" playOrder="3">
+      <navLabel>
+        <text>Scene.1</text>
+      </navLabel>
+      <content src="Roukyubu 03.htm#chap1" />
+    </navPoint>    <navPoint class="chapter" id="chap2" playOrder="4">
+      <navLabel>
+        <text>Scene.2</text>
+      </navLabel>
+      <content src="Roukyubu 03.htm#chap2" />
+    </navPoint>    <navPoint class="chapter" id="chap3" playOrder="5">
+      <navLabel>
+        <text>Scene.3</text>
+      </navLabel>
+      <content src="Roukyubu 03.htm#chap3" />
+    </navPoint>    <navPoint class="chapter" id="chap4" playOrder="6">
+      <navLabel>
+        <text>Scene.4</text>
+      </navLabel>
+      <content src="Roukyubu 03.htm#chap4" />
+    </navPoint>    <navPoint class="chapter" id="chap5" playOrder="7">
+      <navLabel>
+        <text>Scene.5</text>
+      </navLabel>
+      <content src="Roukyubu 03.htm#chap5" />
+    </navPoint>    <navPoint class="chapter" id="chap6" playOrder="8">
+      <navLabel>
+        <text>终章</text>
+      </navLabel>
+      <content src="Roukyubu 03.htm#chap6" />
+    </navPoint>    <navPoint class="chapter" id="epilogue" playOrder="9">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="Roukyubu 03.htm#epilogue" />
+    </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

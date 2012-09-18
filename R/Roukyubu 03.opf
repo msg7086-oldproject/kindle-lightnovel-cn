@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>萝球社！03</dc:Title>
+      <dc:Language>zh</dc:Language>
+      <dc:Identifier id="uid">f83d19e98cc6655fd5da330d9b05bb30</dc:Identifier>
+      <dc:Creator>苍山サグ|台</dc:Creator>
+    </dc-metadata>
+    <x-metadata>
+      <output encoding="utf-8"></output>
+      <EmbeddedCover>Roukyubu 03.jpg</EmbeddedCover>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="Roukyubu 03-toc.ncx"/>
+    <item id="item0" media-type="application/xhtml+xml" href="Roukyubu 03-toc.htm"></item>
+    <item id="item1" media-type="text/x-oeb1-document" href="Roukyubu 03.htm"></item>
+  </manifest>
+  <spine toc="My_Table_of_Contents">
+    <itemref idref="item0"/>
+    <itemref idref="item1"/>
+  </spine>
+  <tours></tours>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="Roukyubu 03-toc.htm"></reference>
+  </guide>
+</package>

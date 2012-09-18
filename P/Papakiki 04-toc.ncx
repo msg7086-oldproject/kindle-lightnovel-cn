@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>要听爸爸的话 04</text></docTitle>
+<docAuthor><text>松智洋|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Papakiki 04-toc.htm" />
+    <navPoint class="chapter" id="prelogue" playOrder="2">
+      <navLabel>
+        <text>序章</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#prelogue" />
+    </navPoint>    <navPoint class="chapter" id="chap1" playOrder="3">
+      <navLabel>
+        <text>第一章  新年参拜与百人一首</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#chap1" />
+    </navPoint>    <navPoint class="chapter" id="chap2" playOrder="4">
+      <navLabel>
+        <text>第二章  滑冰与美女</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#chap2" />
+    </navPoint>    <navPoint class="chapter" id="chap3" playOrder="5">
+      <navLabel>
+        <text>第三章  白金发的访客</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#chap3" />
+    </navPoint>    <navPoint class="chapter" id="chap4" playOrder="6">
+      <navLabel>
+        <text>第四章  心的距离</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#chap4" />
+    </navPoint>    <navPoint class="chapter" id="chap5" playOrder="7">
+      <navLabel>
+        <text>第五章  新学期与新家人？</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#chap5" />
+    </navPoint>    <navPoint class="chapter" id="chap6" playOrder="8">
+      <navLabel>
+        <text>第六章  告别的生日</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#chap6" />
+    </navPoint>    <navPoint class="chapter" id="chap7" playOrder="9">
+      <navLabel>
+        <text>终章</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#chap7" />
+    </navPoint>    <navPoint class="chapter" id="epilogue" playOrder="10">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="Papakiki 04.htm#epilogue" />
+    </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
