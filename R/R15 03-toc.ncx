@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>﻿R-15 3 初次见面，三角关系</text></docTitle>
+<docAuthor><text>伏见ひろゆき|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="R15 03-toc.htm" />
+    <navPoint class="chapter" id="prologue" playOrder="2">
+      <navLabel>
+        <text>序章</text>
+      </navLabel>
+      <content src="R15 03.htm#prologue" />
+    </navPoint>    <navPoint class="chapter" id="chap1" playOrder="3">
+      <navLabel>
+        <text>1  放学后的约会即是死亡宣告？</text>
+      </navLabel>
+      <content src="R15 03.htm#chap1" />
+    </navPoint>    <navPoint class="chapter" id="chap2" playOrder="4">
+      <navLabel>
+        <text>2   天才们制作的真实版RPG</text>
+      </navLabel>
+      <content src="R15 03.htm#chap2" />
+    </navPoint>    <navPoint class="chapter" id="chap3" playOrder="5">
+      <navLabel>
+        <text>3  炸裂！大家的必杀指令——</text>
+      </navLabel>
+      <content src="R15 03.htm#chap3" />
+    </navPoint>    <navPoint class="chapter" id="chap4" playOrder="6">
+      <navLabel>
+        <text>4  混浴澡堂，感情超好♥</text>
+      </navLabel>
+      <content src="R15 03.htm#chap4" />
+    </navPoint>    <navPoint class="chapter" id="chap5" playOrder="7">
+      <navLabel>
+        <text>5  贤者的数据搭讪课程</text>
+      </navLabel>
+      <content src="R15 03.htm#chap5" />
+    </navPoint>    <navPoint class="chapter" id="chap6" playOrder="8">
+      <navLabel>
+        <text>6  好色的勇者·丈途的究极魔法</text>
+      </navLabel>
+      <content src="R15 03.htm#chap6" />
+    </navPoint>    <navPoint class="chapter" id="chap7" playOrder="9">
+      <navLabel>
+        <text>7  賭上0.001%的未来</text>
+      </navLabel>
+      <content src="R15 03.htm#chap7" />
+    </navPoint>    <navPoint class="chapter" id="epilogue" playOrder="10">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="R15 03.htm#epilogue" />
+    </navPoint>    <navPoint class="chapter" id="next" playOrder="11">
+      <navLabel>
+        <text>下集预告！</text>
+      </navLabel>
+      <content src="R15 03.htm#next" />
+    </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

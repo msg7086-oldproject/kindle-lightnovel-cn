@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>﻿R-15 01 欢迎来到天才学园</text></docTitle>
+<docAuthor><text>伏见ひろゆき|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="R15 01-toc.htm" />
+    <navPoint class="chapter" id="chap1" playOrder="2">
+      <navLabel>
+        <text>1 这样真的好吗？天才学园</text>
+      </navLabel>
+      <content src="R15 01.htm#chap1" />
+    </navPoint>    <navPoint class="chapter" id="chap2" playOrder="3">
+      <navLabel>
+        <text>2 只是嘴对嘴而已嘛</text>
+      </navLabel>
+      <content src="R15 01.htm#chap2" />
+    </navPoint>    <navPoint class="chapter" id="chap3" playOrder="4">
+      <navLabel>
+        <text>3 相当不妙的学长学姐登场</text>
+      </navLabel>
+      <content src="R15 01.htm#chap3" />
+    </navPoint>    <navPoint class="chapter" id="chap4" playOrder="5">
+      <navLabel>
+        <text>4 男生ＶＳ女生的结果是？</text>
+      </navLabel>
+      <content src="R15 01.htm#chap4" />
+    </navPoint>    <navPoint class="chapter" id="chap5" playOrder="6">
+      <navLabel>
+        <text>5 青春可不是只有好色喔！</text>
+      </navLabel>
+      <content src="R15 01.htm#chap5" />
+    </navPoint>    <navPoint class="chapter" id="chap6" playOrder="7">
+      <navLabel>
+        <text>6 见识一下我的超凡能力吧！</text>
+      </navLabel>
+      <content src="R15 01.htm#chap6" />
+    </navPoint>    <navPoint class="chapter" id="chap7" playOrder="8">
+      <navLabel>
+        <text>7 存钱存钱存钱，来大赚一笔吧</text>
+      </navLabel>
+      <content src="R15 01.htm#chap7" />
+    </navPoint>    <navPoint class="chapter" id="chap8" playOrder="9">
+      <navLabel>
+        <text>8 聚集大家的力量赢得最后决战！</text>
+      </navLabel>
+      <content src="R15 01.htm#chap8" />
+    </navPoint>    <navPoint class="chapter" id="chap9" playOrder="10">
+      <navLabel>
+        <text>9 这间学园果然很乱来啊</text>
+      </navLabel>
+      <content src="R15 01.htm#chap9" />
+    </navPoint>    <navPoint class="chapter" id="epilogue" playOrder="11">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="R15 01.htm#epilogue" />
+    </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
