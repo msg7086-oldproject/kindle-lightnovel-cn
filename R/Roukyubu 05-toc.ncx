@@ -6,7 +6,7 @@
 <meta name="dtb:totalPageCount" content="0"/>
 <meta name="dtb:maxPageNumber" content="0"/>
 </head>
-<docTitle><text>﻿萝球社！05</text></docTitle>
+<docTitle><text>萝球社！05</text></docTitle>
 <docAuthor><text>苍山サグ|台</text></docAuthor>
   <navMap>
     <navPoint class="toc" id="toc" playOrder="1">
@@ -21,32 +21,32 @@
       <content src="Roukyubu 05.htm#prologue" />
     </navPoint>    <navPoint class="chapter" id="chap1" playOrder="3">
       <navLabel>
-        <text>1 scene.1</text>
+        <text>Scene.1</text>
       </navLabel>
       <content src="Roukyubu 05.htm#chap1" />
     </navPoint>    <navPoint class="chapter" id="chap2" playOrder="4">
       <navLabel>
-        <text>2 scene.2</text>
+        <text>Scene.2</text>
       </navLabel>
       <content src="Roukyubu 05.htm#chap2" />
     </navPoint>    <navPoint class="chapter" id="chap3" playOrder="5">
       <navLabel>
-        <text>3 scene.3</text>
+        <text>Scene.3</text>
       </navLabel>
       <content src="Roukyubu 05.htm#chap3" />
     </navPoint>    <navPoint class="chapter" id="chap4" playOrder="6">
       <navLabel>
-        <text>4 scene.4</text>
+        <text>Scene.4</text>
       </navLabel>
       <content src="Roukyubu 05.htm#chap4" />
     </navPoint>    <navPoint class="chapter" id="chap5" playOrder="7">
       <navLabel>
-        <text>5 scene.5</text>
+        <text>Scene.5</text>
       </navLabel>
       <content src="Roukyubu 05.htm#chap5" />
     </navPoint>    <navPoint class="chapter" id="chap6" playOrder="8">
       <navLabel>
-        <text>6 终章</text>
+        <text>终章</text>
       </navLabel>
       <content src="Roukyubu 05.htm#chap6" />
     </navPoint>    <navPoint class="chapter" id="epilogue" playOrder="9">
