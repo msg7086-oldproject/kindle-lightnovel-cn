@@ -14,6 +14,7 @@
         <text>Table of Contents</text>
       </navLabel>
       <content src="Roukyubu 06-toc.htm" />
+    </navPoint>
     <navPoint class="chapter" id="chap1" playOrder="2">
       <navLabel>
         <text>智花的草莓圣代</text>
@@ -44,7 +45,6 @@
         <text>后记</text>
       </navLabel>
       <content src="Roukyubu 06.htm#epilogue" />
-    </navPoint>
     </navPoint>
   </navMap>
 </ncx>

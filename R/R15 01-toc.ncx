@@ -14,6 +14,7 @@
         <text>Table of Contents</text>
       </navLabel>
       <content src="R15 01-toc.htm" />
+    </navPoint>
     <navPoint class="chapter" id="chap1" playOrder="2">
       <navLabel>
         <text>1 这样真的好吗？天才学园</text>
@@ -64,7 +65,6 @@
         <text>后记</text>
       </navLabel>
       <content src="R15 01.htm#epilogue" />
-    </navPoint>
     </navPoint>
   </navMap>
 </ncx>

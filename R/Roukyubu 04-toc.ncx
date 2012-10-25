@@ -14,6 +14,7 @@
         <text>Table of Contents</text>
       </navLabel>
       <content src="Roukyubu 04-toc.htm" />
+    </navPoint>
     <navPoint class="chapter" id="prologue" playOrder="2">
       <navLabel>
         <text>序章</text>
@@ -49,7 +50,6 @@
         <text>后记</text>
       </navLabel>
       <content src="Roukyubu 04.htm#epilogue" />
-    </navPoint>
     </navPoint>
   </navMap>
 </ncx>
