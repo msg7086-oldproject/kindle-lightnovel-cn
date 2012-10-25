@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>樱花庄的宠物女孩 04</text></docTitle>
+<docAuthor><text>鴨志田一|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="SakuraKanojo 04-toc.htm" />
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>第一章 樱花庄的文化祭</text>
+      </navLabel>
+      <content src="SakuraKanojo 04.htm#NAV1" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>第二章 恋情绽放的秋天啊</text>
+      </navLabel>
+      <content src="SakuraKanojo 04.htm#NAV2" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>第三章 冬天的预兆</text>
+      </navLabel>
+      <content src="SakuraKanojo 04.htm#NAV3" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>第四章 在圣夜里</text>
+      </navLabel>
+      <content src="SakuraKanojo 04.htm#NAV4" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV5" playOrder="6">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="SakuraKanojo 04.htm#NAV5" />
+    </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
