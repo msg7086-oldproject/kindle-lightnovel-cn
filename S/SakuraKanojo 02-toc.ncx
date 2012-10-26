@@ -15,6 +15,7 @@
         <text>Table of Contents</text>
       </navLabel>
       <content src="SakuraKanojo 02-toc.htm" />
+    </navPoint>
     <navPoint class="chapter" id="NAV1" playOrder="2">
       <navLabel>
         <text>第一章 说到夏天当然就是山与海？</text>
@@ -44,7 +45,6 @@
         <text>后记</text>
       </navLabel>
       <content src="SakuraKanojo 02.htm#NAV5" />
-    </navPoint>
     </navPoint>
   </navMap>
 </ncx>

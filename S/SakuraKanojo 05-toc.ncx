@@ -15,6 +15,7 @@
         <text>Table of Contents</text>
       </navLabel>
       <content src="SakuraKanojo 05-toc.htm" />
+    </navPoint>
     <navPoint class="chapter" id="NAV1" playOrder="2">
       <navLabel>
         <text>第一章 空太争夺战线只有异常</text>
@@ -50,7 +51,6 @@
         <text>后记</text>
       </navLabel>
       <content src="SakuraKanojo 05.htm#NAV6" />
-    </navPoint>
     </navPoint>
   </navMap>
 </ncx>

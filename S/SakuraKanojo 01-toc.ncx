@@ -15,6 +15,7 @@
         <text>Table of Contents</text>
       </navLabel>
       <content src="SakuraKanojo 01-toc.htm" />
+    </navPoint>
     <navPoint class="chapter" id="NAV1" playOrder="2">
       <navLabel>
         <text>第一章 欢迎来到樱花庄</text>
@@ -44,7 +45,6 @@
         <text>后记</text>
       </navLabel>
       <content src="SakuraKanojo 01.htm#NAV5" />
-    </navPoint>
     </navPoint>
   </navMap>
 </ncx>
