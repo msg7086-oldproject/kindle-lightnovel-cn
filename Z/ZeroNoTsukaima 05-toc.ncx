@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>零之使魔 05 托里斯塔尼亚的假日</text></docTitle>
+<docAuthor><text>山口升|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 05-toc.htm" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>第一章 「媚惑的妖精」亭</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 05.htm#NAV1" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>第二章 炎之邂逅与风之友情</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 05.htm#NAV2" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>第三章 托里斯塔尼亚的假日</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 05.htm#NAV3" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 05.htm#NAV4" />
+    </navPoint>
+  </navMap>
+</ncx>
