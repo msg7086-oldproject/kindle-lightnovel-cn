@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>零之使魔 12 妖精们的假日</text></docTitle>
+<docAuthor><text>山口升|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 12-toc.htm" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>序章</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 12.htm#NAV1" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>第一章 来自白之国「阿尔比昂」的转学生</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 12.htm#NAV2" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>第二章 水精灵骑士队，突击！</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 12.htm#NAV3" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>第三章 才人的一日使用权</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 12.htm#NAV4" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV5" playOrder="6">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 12.htm#NAV5" />
+    </navPoint>
+  </navMap>
+</ncx>
