@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>零之使魔 10 伊法尔蒂的勇者</text></docTitle>
+<docAuthor><text>山口升|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10-toc.htm" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>第一章 「东方」号</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV1" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>第二章 精灵</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV2" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>第三章 不安与嫉妒</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV3" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>第四章 女王与骑士们</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV4" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV5" playOrder="6">
+      <navLabel>
+        <text>第五章 兄弟</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV5" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV6" playOrder="7">
+      <navLabel>
+        <text>第六章 被囚禁的六人</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV6" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV7" playOrder="8">
+      <navLabel>
+        <text>第七章 过去的清算</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV7" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV8" playOrder="9">
+      <navLabel>
+        <text>第八章 奥尔良大公故居</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV8" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV9" playOrder="10">
+      <navLabel>
+        <text>第九章 阿罕布拉城</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV9" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV10" playOrder="11">
+      <navLabel>
+        <text>第十章 伊法尔蒂的勇者</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV10" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV11" playOrder="12">
+      <navLabel>
+        <text>最终章</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV11" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV12" playOrder="13">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 10.htm#NAV12" />
+    </navPoint>
+  </navMap>
+</ncx>
