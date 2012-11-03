@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>零之使魔 17 黎明的修女</text></docTitle>
+<docAuthor><text>山口升|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17-toc.htm" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>第一章 才人的绝望</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV1" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>第二章 逃避行</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV2" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>第三章 遇上同伴</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV3" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>第四章 叙尔比斯</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV4" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV5" playOrder="6">
+      <navLabel>
+        <text>第五章 和雅各的第一次交手</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV5" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV6" playOrder="7">
+      <navLabel>
+        <text>第六章 达米安与贡德兰卿</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV6" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV7" playOrder="8">
+      <navLabel>
+        <text>第七章 修女露易丝</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV7" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV8" playOrder="9">
+      <navLabel>
+        <text>第八章 乔丝特的决心</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV8" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV9" playOrder="10">
+      <navLabel>
+        <text>第九章 两把权杖与一个王冠</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV9" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV10" playOrder="11">
+      <navLabel>
+        <text>第十章 即位庆祝园游会</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV10" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV11" playOrder="12">
+      <navLabel>
+        <text>第十一章 羁绊</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV11" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV12" playOrder="13">
+      <navLabel>
+        <text>最终章</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV12" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV13" playOrder="14">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 17.htm#NAV13" />
+    </navPoint>
+  </navMap>
+</ncx>
