@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>零之使魔 07 银之降临祭</dc:Title>
+      <dc:Language>zh</dc:Language>
+      <dc:Identifier id="uid">34B169139AF1C7B1B9609F97AD0502D1</dc:Identifier>
+      <dc:Creator>山口升|台</dc:Creator>
+    </dc-metadata>
+    <x-metadata>
+      <output encoding="utf-8"></output>
+      <EmbeddedCover>ZeroNoTsukaima 07.jpg</EmbeddedCover>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="ZeroNoTsukaima 07-toc.ncx"/>
+    <item id="item0" media-type="application/xhtml+xml" href="ZeroNoTsukaima 07-toc.htm"></item>
+    <item id="item1" media-type="text/x-oeb1-document" href="ZeroNoTsukaima 07.htm"></item>
+  </manifest>
+  <spine toc="My_Table_of_Contents">
+    <itemref idref="item0"/>
+    <itemref idref="item1"/>
+  </spine>
+  <tours></tours>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="ZeroNoTsukaima 07-toc.htm"></reference>
+  </guide>
+</package>
