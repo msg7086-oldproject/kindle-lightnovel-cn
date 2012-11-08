@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>樱花庄的宠物女孩 06</text></docTitle>
+<docAuthor><text>鸭志田一|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="SakuraKanojo 06-toc.htm" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>第一章 为了以后也能再回来</text>
+      </navLabel>
+      <content src="SakuraKanojo 06.htm#NAV1" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>第二章 穿越光辉闪耀的日子</text>
+      </navLabel>
+      <content src="SakuraKanojo 06.htm#NAV2" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>第三章 下雨并不是任何人的错</text>
+      </navLabel>
+      <content src="SakuraKanojo 06.htm#NAV3" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>第四章 毕业典礼</text>
+      </navLabel>
+      <content src="SakuraKanojo 06.htm#NAV4" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV5" playOrder="6">
+      <navLabel>
+        <text>第五章 启程的日子</text>
+      </navLabel>
+      <content src="SakuraKanojo 06.htm#NAV5" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV6" playOrder="7">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="SakuraKanojo 06.htm#NAV6" />
+    </navPoint>
+  </navMap>
+</ncx>
