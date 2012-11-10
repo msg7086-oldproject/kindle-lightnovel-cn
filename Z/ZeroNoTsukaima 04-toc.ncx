@@ -40,43 +40,49 @@
       </navLabel>
       <content src="ZeroNoTsukaima 04.htm#NAV4" />
     </navPoint>
-    <navPoint class="chapter" id="NAV5" playOrder="6">
+    <navPoint class="chapter" id="NAVa" playOrder="6">
+      <navLabel>
+        <text>第四章 塔帕莎的秘密</text>
+      </navLabel>
+      <content src="ZeroNoTsukaima 04.htm#NAVa" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV5" playOrder="7">
       <navLabel>
         <text>第五章 媚药的效果</text>
       </navLabel>
       <content src="ZeroNoTsukaima 04.htm#NAV5" />
     </navPoint>
-    <navPoint class="chapter" id="NAV6" playOrder="7">
+    <navPoint class="chapter" id="NAV6" playOrder="8">
       <navLabel>
         <text>第六章 水之精灵</text>
       </navLabel>
       <content src="ZeroNoTsukaima 04.htm#NAV6" />
     </navPoint>
-    <navPoint class="chapter" id="NAV7" playOrder="8">
+    <navPoint class="chapter" id="NAV7" playOrder="9">
       <navLabel>
         <text>第七章 安德瓦利之戒</text>
       </navLabel>
       <content src="ZeroNoTsukaima 04.htm#NAV7" />
     </navPoint>
-    <navPoint class="chapter" id="NAV8" playOrder="9">
+    <navPoint class="chapter" id="NAV8" playOrder="10">
       <navLabel>
         <text>第八章 虚伪的重逢</text>
       </navLabel>
       <content src="ZeroNoTsukaima 04.htm#NAV8" />
     </navPoint>
-    <navPoint class="chapter" id="NAV9" playOrder="10">
+    <navPoint class="chapter" id="NAV9" playOrder="11">
       <navLabel>
         <text>第九章 悲哀的对决</text>
       </navLabel>
       <content src="ZeroNoTsukaima 04.htm#NAV9" />
     </navPoint>
-    <navPoint class="chapter" id="NAV10" playOrder="11">
+    <navPoint class="chapter" id="NAV10" playOrder="12">
       <navLabel>
         <text>最终章</text>
       </navLabel>
       <content src="ZeroNoTsukaima 04.htm#NAV10" />
     </navPoint>
-    <navPoint class="chapter" id="NAV11" playOrder="12">
+    <navPoint class="chapter" id="NAV11" playOrder="13">
       <navLabel>
         <text>后记</text>
       </navLabel>
