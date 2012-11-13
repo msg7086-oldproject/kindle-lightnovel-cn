@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>萝球社！10</text></docTitle>
+<docAuthor><text>苍山サグ|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Roukyubu 10-toc.htm" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>早一天生日的纱季</text>
+      </navLabel>
+      <content src="Roukyubu 10.htm#NAV1" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>日向和喜欢体育短裤的老大</text>
+      </navLabel>
+      <content src="Roukyubu 10.htm#NAV2" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>决战游乐园！？</text>
+      </navLabel>
+      <content src="Roukyubu 10.htm#NAV3" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>欢迎光临小帆帆鬼屋！</text>
+      </navLabel>
+      <content src="Roukyubu 10.htm#NAV4" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV5" playOrder="6">
+      <navLabel>
+        <text>真帆的逃避行为记与后续发展——</text>
+      </navLabel>
+      <content src="Roukyubu 10.htm#NAV5" />
+    </navPoint>
+    <navPoint class="chapter" id="NAV6" playOrder="7">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="Roukyubu 10.htm#NAV6" />
+    </navPoint>
+  </navMap>
+</ncx>
