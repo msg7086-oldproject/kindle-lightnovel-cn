@@ -8,7 +8,7 @@
 <meta name="dtb:maxPageNumber" content="0"/>
 </head>
 <docTitle><text>樱花庄的宠物女孩 02</text></docTitle>
-<docAuthor><text>鴨志田一|台</text></docAuthor>
+<docAuthor><text>鴨志田 一|台</text></docAuthor>
   <navMap>
     <navPoint class="toc" id="toc" playOrder="1">
       <navLabel>
@@ -18,7 +18,7 @@
     </navPoint>
     <navPoint class="chapter" id="NAV1" playOrder="2">
       <navLabel>
-        <text>第一章 说到夏天当然就是山与海？</text>
+        <text>第一章 说到夏天 当然是山与海？</text>
       </navLabel>
       <content src="SakuraKanojo 02.htm#NAV1" />
     </navPoint>
