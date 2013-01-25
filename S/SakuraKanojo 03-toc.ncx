@@ -8,7 +8,7 @@
 <meta name="dtb:maxPageNumber" content="0"/>
 </head>
 <docTitle><text>樱花庄的宠物女孩 03</text></docTitle>
-<docAuthor><text>鴨志田一|台</text></docAuthor>
+<docAuthor><text>鴨志田 一|台</text></docAuthor>
   <navMap>
     <navPoint class="toc" id="toc" playOrder="1">
       <navLabel>
@@ -18,13 +18,13 @@
     </navPoint>
     <navPoint class="chapter" id="NAV1" playOrder="2">
       <navLabel>
-        <text>第一章 秋季的暴风雪来临</text>
+        <text>第一章 秋季的暴风雨来临</text>
       </navLabel>
       <content src="SakuraKanojo 03.htm#NAV1" />
     </navPoint>
     <navPoint class="chapter" id="NAV2" playOrder="3">
       <navLabel>
-        <text>第二章 让思考关于和平吧</text>
+        <text>第二章 来思考关于和平吧</text>
       </navLabel>
       <content src="SakuraKanojo 03.htm#NAV2" />
     </navPoint>
