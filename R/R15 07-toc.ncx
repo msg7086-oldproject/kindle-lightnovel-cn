@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>R-15 07 开动啰，女孩们的秘密</text></docTitle>
+<docAuthor><text>伏见ひろゆき|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="R15 07-toc.htm" />
+    </navPoint>
+
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>Girls' talk@少女们的秘密</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV1" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>异种Cosplay～巫女X军人X女仆篇～</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV2" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>Girls' talk@小恶魔女王社长</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV3" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>异种Cosplay～女忍者X女警X啦啦队女孩篇～</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV4" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV5" playOrder="6">
+      <navLabel>
+        <text>Girls' talk@恋爱的年资</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV5" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV6" playOrder="7">
+      <navLabel>
+        <text>女王所引导的未来</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV6" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV7" playOrder="8">
+      <navLabel>
+        <text>Girls' talk@好评加热中</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV7" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV8" playOrder="9">
+      <navLabel>
+        <text>小魔女锋面是恋爱风暴</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV8" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV9" playOrder="10">
+      <navLabel>
+        <text>Girls' talk@谁也不知道的吹音</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV9" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV10" playOrder="11">
+      <navLabel>
+        <text>R-13～两人的序曲～</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV10" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV11" playOrder="12">
+      <navLabel>
+        <text>Girls' talk@各自的道路</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV11" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV12" playOrder="13">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="R15 07.htm#NAV12" />
+    </navPoint>
+
+  </navMap>
+</ncx>

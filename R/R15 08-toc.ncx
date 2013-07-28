@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>R-15 08 升学就业辅导开跑！</text></docTitle>
+<docAuthor><text>伏见ひろゆき|台</text></docAuthor>
+  <navMap>
+    <navPoint class="toc" id="toc" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="R15 08-toc.htm" />
+    </navPoint>
+
+    <navPoint class="chapter" id="NAV1" playOrder="2">
+      <navLabel>
+        <text>1 开幕！色情VS洗脑的世界大战</text>
+      </navLabel>
+      <content src="R15 08.htm#NAV1" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV2" playOrder="3">
+      <navLabel>
+        <text>2 情色补习班所教导的实战技巧？</text>
+      </navLabel>
+      <content src="R15 08.htm#NAV2" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV3" playOrder="4">
+      <navLabel>
+        <text>3 残留下来的鲜红圣经</text>
+      </navLabel>
+      <content src="R15 08.htm#NAV3" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV4" playOrder="5">
+      <navLabel>
+        <text>4 赌上和平的世纪交响乐音乐会</text>
+      </navLabel>
+      <content src="R15 08.htm#NAV4" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV5" playOrder="6">
+      <navLabel>
+        <text>5 崭新的世界与一个完结</text>
+      </navLabel>
+      <content src="R15 08.htm#NAV5" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV6" playOrder="7">
+      <navLabel>
+        <text>6 生涯辅导委员长所指示的「毕业」</text>
+      </navLabel>
+      <content src="R15 08.htm#NAV6" />
+    </navPoint>
+
+
+    <navPoint class="chapter" id="NAV7" playOrder="8">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="R15 08.htm#NAV7" />
+    </navPoint>
+
+  </navMap>
+</ncx>

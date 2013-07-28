@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>R-15 08 升学就业辅导开跑！</dc:Title>
+      <dc:Language>zh</dc:Language>
+      <dc:Identifier id="uid">2B384F5F13AF9A3F4B6D21AC4FCA85C4</dc:Identifier>
+      <dc:Creator>伏见ひろゆき|台</dc:Creator>
+    </dc-metadata>
+    <x-metadata>
+      <output encoding="utf-8"></output>
+      <EmbeddedCover>R15 08.jpg</EmbeddedCover>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="R15 08-toc.ncx"/>
+    <item id="item0" media-type="application/xhtml+xml" href="R15 08-toc.htm"></item>
+    <item id="item1" media-type="text/x-oeb1-document" href="R15 08.htm"></item>
+  </manifest>
+  <spine toc="My_Table_of_Contents">
+    <itemref idref="item0"/>
+    <itemref idref="item1"/>
+  </spine>
+  <tours></tours>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="R15 08-toc.htm"></reference>
+  </guide>
+</package>
